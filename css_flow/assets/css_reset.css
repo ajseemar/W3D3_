@@ -1,0 +1,15 @@
+* {
+    padding: 0;
+    margin: 0; 
+    border: 0; 
+
+    font: inherit;
+}
+
+body {
+    line-height: 1.5; 
+}
+
+header > img {
+    width: inherit;
+}
