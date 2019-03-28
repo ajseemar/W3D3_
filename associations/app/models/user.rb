@@ -20,5 +20,4 @@ class User < ApplicationRecord
     source: :course 
 
 
-
 end
